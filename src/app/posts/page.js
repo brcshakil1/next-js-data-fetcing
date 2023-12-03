@@ -1,4 +1,5 @@
 import Link from "next/link";
+import styles from "./Posts.module.css";
 
 const page = async () => {
   const res = await fetch("http://localhost:5000/posts", {
@@ -8,9 +9,7 @@ const page = async () => {
 
   return (
     <div className="p-5">
-      <h2 className="text-2xl font-semibold py-5">
-        Total posts: {posts?.length}
-      </h2>
+      <h2 className={styles.header_text}>Total posts: {posts?.length}</h2>
       <div className="">
         {posts?.map((post) => (
           <div

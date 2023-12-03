@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "post": "Learn the basics of programming and dive into the world of coding.",
+      "likes": 150
+    },
+    {
+      "id": 2,
+      "title": "Healthy Eating Habits",
+      "post": "Discover the importance of maintaining a balanced diet and adopting healthy eating habits.",
+      "likes": 220
+    },
+    {
+      "id": 3,
+      "title": "Traveling on a Budget",
+      "post": "Explore tips and tricks for traveling without breaking the bank.",
+      "likes": 120
+    },
+    {
+      "id": 4,
+      "title": "Photography Tips for Beginners",
+      "post": "Capture stunning images with these essential photography tips for beginners.",
+      "likes": 300
+    },
+    {
+      "id": 5,
+      "title": "Productivity Hacks for Remote Workers",
+      "post": "Boost your productivity while working remotely with these effective hacks.",
+      "likes": 180
+    },
+    {
+      "id": 6,
+      "title": "DIY Home Decor Ideas",
+      "post": "Transform your living space with these creative and budget-friendly DIY home decor ideas.",
+      "likes": 250
+    }
+  ]
+}
